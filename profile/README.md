@@ -6,7 +6,7 @@ Academic project showcase and coursework repositories developed during the Bache
 
 | Course | Repository & Project | Tech Stack | Grade / Score |
 | :--- | :--- | :--- | :---: |
-| **Object-Oriented Programming** | [OOP25-Kiki-Store](https://github.com/Leon7-Unibo-Projects/OOP25-Kiki-Store) | `Java` `JavaFX` `Gradle` | **29 / 30** |
+| **Object-Oriented Programming** | [Kiki Store](https://github.com/Leon7-Unibo-Projects/OOP25-Kiki-Store) | `Java` `JavaFX` `Gradle` | **29 / 30** |
 | **Mobile Systems Programming** | [Checkpoint](https://github.com/Leon7-Unibo-Projects/PMOBILE26-Checkpoint) | `Kotlin` `Jetpack Compose` `MVVM` | **28 / 28** *(Max)* |
 | **Databases** | [Musicality](https://github.com/Leon7-Unibo-Projects/DB25-Musicality) | `SQL` `Relational DB` | **3 / 4** |
 
